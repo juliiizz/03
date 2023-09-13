@@ -1,0 +1,54 @@
+/* Estilos para la página web */
+
+h1{
+    color: rgb(226, 82, 226);
+}
+body {  
+    background-color: #93e096;  
+    font-size: 16px;
+    }
+h2 {  
+        font-size: 36px;  
+        color: #000000;
+        }
+.encabezado {  
+            text-align: center;  
+            text-transform: uppercase;  
+            font-weight: bold;  
+            font-size: 42px;
+            }
+.parrafo {  
+        text-align: justify;  
+        text-transform: capitalize;  
+        font-size: 24px;
+        }
+#fondo {  
+        background-color: #9070af; /* modificar el color a elección */
+        }
+p a {  
+    color: #da08a5;  
+    text-decoration: none;
+    }
+.ejemplo{
+    text-align: center;
+    text-transform: uppercase;
+}
+.libro{
+    font-size: 24px;
+    font-style: italic;
+}
+.música{
+    letter-spacing: -1px;  
+    font-style: oblique;
+
+}
+            
+            
+                
+
+            
+            
+
+
+
+
